@@ -1,0 +1,22 @@
+[
+    {
+        "customer": "Ali",
+        "items": [
+            {"price": 50000, "quantity": 2},
+            {"price": 30000, "quantity": 1}
+        ]
+    },
+    {
+        "customer": "Vali",
+        "items": [
+            {"price": 100000, "quantity": 3}
+        ]
+    },
+    {
+        "customer": "Sardor",
+        "items": [
+            {"price": 20000, "quantity": 5},
+            {"price": 40000, "quantity": 2}
+        ]
+    }
+]

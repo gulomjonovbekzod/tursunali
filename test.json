@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Ali",
+        "second": "Karimov",
+        "age": 2,
+        "subjects":["Matematika", "Ingliz tili"]
+    },
+    {
+        "name": "Valie",
+        "second": "mardonov",
+        "age": 1,
+        "subjects":["Ona-tili", "rus tili"]
+    },
+    {
+        "name": "Oxun",
+        "second": "Boboyev",
+        "age": 3,
+        "subjects":["Tarix", "Matematika"]
+    },
+    {
+        "name": "Ravshan",
+        "second": "Karimov",
+        "age": 2,
+        "subjects":["Geometriya", "Fizika"]
+    }
+]

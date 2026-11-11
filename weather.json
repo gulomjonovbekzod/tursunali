@@ -1,0 +1,7 @@
+[
+    {"city": "Tashkent", "temperature": 25},
+    {"city": "Samarkand", "temperature": 20},
+    {"city": "Bukhara", "temperature": 35},
+    {"city": "Andijan", "temperature": 15},
+    {"city": "Namangan", "temperature": 28}
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "from": "Tashkent",
+        "to": "Seoul",
+        "price": 3000000,
+        "seats": 20
+    },
+    {
+        "from": "Samarkand",
+        "to": "Istanbul",
+        "price": 2500000,
+        "seats": 15
+    },
+    {
+        "from": "Tashkent",
+        "to": "Dubai",
+        "price": 4000000,
+        "seats": 10
+    },
+    {
+        "from": "Tashkent",
+        "to": "Moscow",
+        "price": 2000000,
+        "seats": 25
+    }
+]

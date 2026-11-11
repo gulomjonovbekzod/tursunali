@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Ali",
+        "courses": ["Python", "HTML"]
+    },
+    {
+        "name": "Vali",
+        "courses": ["Python", "C++"]
+    },
+    {
+        "name": "Sardor",
+        "courses": ["Java", "HTML"]
+    },
+    {
+        "name": "Aziz",
+        "courses": ["Python", "Java"]
+    },
+    {
+        "name": "Jasur",
+        "courses": ["C++", "HTML"]
+    }
+]

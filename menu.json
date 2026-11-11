@@ -1,0 +1,7 @@
+[
+    {"name": "Margarita", "category": "Pizza", "price": 50000},
+    {"name": "Pepperoni", "category": "Pizza", "price": 70000},
+    {"name": "Burger", "category": "Fast Food", "price": 40000},
+    {"name": "Lavash", "category": "Fast Food", "price": 35000},
+    {"name": "4 Cheese", "category": "Pizza", "price": 85000}
+]
